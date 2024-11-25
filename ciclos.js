@@ -50,14 +50,26 @@
 //   console.log(` Item ${i}`); 
 // }
 
-const numeros = [1, 2, 3, 4];
+// const numeros = [1, 2, 3, 4];
+// numeros[0] = "Juan";
 
-// let a = numeros[1]
-// let b = numeros[2]
-// let c = numeros[3]
-// let d = numeros[4]
-// console.log(a,b,c,d);
+// // let a = numeros[1]
+// // let b = numeros[2]
+// // let c = numeros[3]
+// // let d = numeros[4]
+// // console.log(a,b,c,d);
+// // let  [a, b, c , d] = numeros;
+// numeros[1] = "Juan";
+// console.log(a, b, c, d, e = 25) = numeros;
 
-let  [a, b, c , d] = numeros;
+// console.log(numeros);
 
-console.log(a, b, c, d, e = 25);
+const persona = {
+  Nombre : "Juan David",
+  Apellido : "Bautista Gómez",
+  Edad : 18,
+};
+let a = persona;
+let b = persona;
+let c = persona;
+console.log(a, b, c,);
