@@ -64,12 +64,19 @@
 
 // console.log(numeros);
 
+// const persona = {
+//   Nombre : "Juan David",
+//   Apellido : "Bautista Gómez",
+//   Edad : 18,
+// };
+// let a = persona;
+// let b = persona;
+// let c = persona;
+// console.log(a, b, c,);
+
 const persona = {
   Nombre : "Juan David",
   Apellido : "Bautista Gómez",
   Edad : 18,
 };
-let a = persona;
-let b = persona;
-let c = persona;
-console.log(a, b, c,);
+const(Nombre:lastname, find name)
