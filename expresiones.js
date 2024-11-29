@@ -18,9 +18,9 @@
 
 
 let palabra = "123Lore, impum culpa 98a456";
-palabra = "1238 vaya y pollito 627329"
+palabra = "1238    vaca"
 
-let regex = /^[0-9]{2,3}+[a-z]{4,6}/g;
+let regex = /^([0-9]{2,3}).+([a-z]{4,6})/g;
 
 console.log(regex.test(palabra));     
 console.log(palabra.match(regex));   
