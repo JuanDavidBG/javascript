@@ -79,4 +79,6 @@ const persona = {
   Apellido : "Bautista Gómez",
   Edad : 18,
 };
-const(Nombre:lastname, find name)
+
+
+
